@@ -6,11 +6,10 @@ This repository contains all public documentation for **TrackaHealth**, includin
 - Product roadmap  
 - User guides and feature plans  
 - Technical architecture (future)  
-
 ## 📋 What You'll Find Here
 
 /docs
-
+```
 
 
 ├── branding/          # Mission, values, logo, name
@@ -19,6 +18,7 @@ This repository contains all public documentation for **TrackaHealth**, includin
 ├── product/           # Feature ideas, user stories
 ├── technical/         # System design, code standards
 └── roadmap.md         # Short & long-term goals
+```
 
 
 ## 🌱 Our Vision
