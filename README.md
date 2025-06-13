@@ -8,7 +8,7 @@ This repository contains all public documentation for **TrackaHealth**, includin
 - Technical architecture (future)  
 
 ## 📋 What You'll Find Here
-```
+
 /docs
 
 
@@ -19,7 +19,7 @@ This repository contains all public documentation for **TrackaHealth**, includin
 ├── product/           # Feature ideas, user stories
 ├── technical/         # System design, code standards
 └── roadmap.md         # Short & long-term goals
-```
+
 
 ## 🌱 Our Vision
 TrackaHealth is not just software – it's a movement to bring accessible, affordable diagnostics to every community in Nigeria and beyond.
